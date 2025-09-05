@@ -29,6 +29,10 @@ I'm a passionate **Software Developer** who loves to build innovative solutions 
 
 <!-- The '&hide=' option can be used to hide less relevant stats (e.g., &hide=issues) -->
 ![Gaikiir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaikiir&show_icons=true&theme=radical&hide_title=true)
+https://camo.githubusercontent.com/2abaf5ed15896a4e7837058da76274374b5517913fdfd6e15d498b47245bbfa6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966
+https://camo.githubusercontent.com/4a27da39b81df02e80a939b451f850a845e4080a34860cb98108ff6d6bbff090/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d627564612d6272616e6963652d6e6a697261267468656d653d6d696e696d616c
+
+https://camo.githubusercontent.com/2abaf5ed15896a4e7837058da76274374b5517913fdfd6e15d498b47245bbfa6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaikiir&layout=compact&theme=radical&langs_count=8)
 
