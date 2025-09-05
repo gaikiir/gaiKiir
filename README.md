@@ -34,11 +34,9 @@
 
 💬 Ask me about anything related to the latest tech.
 
-📫 How to reach me: **[Email Me](mailto:your-email@gmail.com)** *(Please update with your actual email)*
+📫 How to reach me: **[Email Me](gaichris380@gmail.com)
 
 😄 **Pronouns:** He/Him
-
-📝 I often write articles on [my blog](https://medium.com/@your-medium-handle) *(Please update with your actual blog)*
 
 ⚡ **Fun fact:** I think I'm a smiling machine 😄
 
