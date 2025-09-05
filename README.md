@@ -53,6 +53,6 @@ I'm a passionate **Software Developer** who loves to build innovative solutions 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
----
+https://camo.githubusercontent.com/4a27da39b81df02e80a939b451f850a845e4080a34860cb98108ff6d6bbff090/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d627564612d6272616e6963652d6e6a697261267468656d653d6d696e696d616c
 
 ⭐️ From [gaikiir](https://github.com/gaikiir)
