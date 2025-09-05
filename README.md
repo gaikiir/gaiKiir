@@ -2,9 +2,9 @@ Hi there, I'm Gaikiir! 👋
 https://komarev.com/ghpvc/?username=gaikiir&label=Profile%2520Views&color=brightgreen&style=flat
 https://img.shields.io/github/followers/gaikiir?label=Follow&style=social
 
-https://camo.githubusercontent.com/2abaf5ed15896a4e7837058da76274374b5517913fdfd6e15d498b47245bbfa6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714j35657656732d5f755541414141432f636f64696e672e676966
+https://camo.githubusercontent.com/2abaf5ed15896a4e7837058da76274374b5517913fdfd6e15d498b47245bbfa6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966
 
-🚀 About Me
+💫 About Me
 I'm a passionate Software Developer who loves to build innovative solutions and contribute to open source. I enjoy working across the stack and tackling challenging problems.
 
 🛠️ Technologies & Tools
@@ -49,15 +49,3 @@ Advanced Cloud Architecture (AWS/GCP)
 Machine Learning & AI
 
 👨‍💻 Recent Projects
-Project One - A short description of what this project does.
-
-Project Two - A short description of what this project does.
-
-Project Three - A short description of what this project does.
-
-📫 How to Reach Me
-LinkedIn: Connect with me
-
-Twitter: Follow me
-
-Email: gaikiir@example.com
