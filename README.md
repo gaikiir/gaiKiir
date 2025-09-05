@@ -1,51 +1,165 @@
-Hi there, I'm Gaikiir! 👋
-https://komarev.com/ghpvc/?username=gaikiir&label=Profile%2520Views&color=brightgreen&style=flat
-https://img.shields.io/github/followers/gaikiir?label=Follow&style=social
+<h1 align="center">Hi 👋, I'm kkmanuu</h1>   
+  
+<img src="https://wakatime.com/badge/user/fe38a003-9d88-400e-b624-e41ac19ee0d4.svg" alt="Total time coded since Sep 29 2020" height="20px" /></a>             
+     
+💫 About Me:    
+    
+🎓 I’m a computer science graduate with hands-on experience in exploratory data analysis, machine learning, computer vision, and statistics 💻. I am also a full-stack web developer 🌐. My research interests include Computer Vision, Geometric Machine Learning, Group Theory ✨.
 
-https://camo.githubusercontent.com/2abaf5ed15896a4e7837058da76274374b5517913fdfd6e15d498b47245bbfa6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966
 
-💫 About Me
-I'm a passionate Software Developer who loves to build innovative solutions and contribute to open source. I enjoy working across the stack and tackling challenging problems.
+ 
+🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.         
 
-🛠️ Technologies & Tools
-Languages:
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+👯 currently working as a Software  Engineer Fellow at Headstarter AI  🚀.      
 
-Frameworks & Libraries:
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+💬 Ask me about HTML, JavaScript, CSS, React, Ruby on Rails, MongoDB, Vue.j, PHP , PostgreSQ and Redux. I’m passionate about data science, data visualization, and research .  
 
-Tools & Platforms:
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+🧐 I love sharing insights and making a positive impact .   
 
-📊 GitHub Stats
-https://camo.githubusercontent.com/4a27da39b81df02e80a939b451f850a845e4080a34860cb98108ff6d6bbff090/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6761696b696972267468656d653d6d696e696d616c
 
-https://github-readme-stats.vercel.app/api?username=gaikiir&show_icons=true&theme=radical&hide_title=true
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=gaikiir&layout=compact&theme=radical&langs_count=8
+<h3 align="center">A Dedicated and Skilled Full-stack Developer from Kenya .</h3>
 
-https://github-readme-streak-stats.herokuapp.com/?user=gaikiir&theme=radical
+<div align="center">
+    <img alt="coding" width="700" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+ 
+</div>
 
-🌱 I'm currently learning...
-Flutter - Cross-platform mobile development
+   
+## ⚡ A Few Quick Facts:
 
-C++ - Systems programming and performance optimization
+🔭 I’m currently working on multiple projects on Computer Vision .
 
-Python - Data science and backend development
+🧮 I’m currently learning AI and Mobile development
 
-Advanced Cloud Architecture (AWS/GCP)
+👯 I’m looking to collaborate on any Computer Vision related research project.
 
-Machine Learning & AI
+🤔 I’m looking for help with AI, Group theory. 
 
-👨‍💻 Recent Projects
+💬 Ask me about anything related to the latest tech.
+
+📫 How to reach me: [Gmail](mailto:kipngenoemmanuel@gmail.com)
+
+- 😄 Pronouns: He/Him
+
+- 🧾 Check out my [resume](file:///C:/Users/USER/Downloads/Emmanuel_Kipngeno_Resume.pdf).
+
+- 📝 I often write articles on [my blog](https://medium.com/@kipngenoemmanuel479).
+
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkmanuu&label=Profile%20views&color=0e75b6&style=flat" alt="kkmanuu" /> </p>
+
+<p align="left"> <a href="https://twitter.com/kkmanuu1" target="blank"><img src="https://img.shields.io/twitter/follow/kkmanuu1?logo=twitter&style=for-the-badge" alt="kkmanuu1" /></a> </p>
+
+- ⚡ Fun fact: I think I'm smiling machine 😄
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kkmanuu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkmanuu1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-kipngeno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/emmanuel-kipngeno/" height="30" width="40" /></a>
+<a href="https://instagram.com/manuu_kips_479/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manuu_kips_479/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kipngenoemmanue1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://wkipngenoemmanue1?hr_r=1" height="30" width="40" /></a>
+</p>       
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
+<br>
+## 🛠️ Languages and Tools I use:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="50" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="50" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" width="50" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-line.svg" height="40" width="50" alt="grunt logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="50" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="50" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="50" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="50" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" width="50" alt="babel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" width="50" alt="threejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" width="50" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="50" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="50" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="50" alt="graphql logo"  />
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="50" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="nodejs logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="50" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" width="50" alt="mongodb logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="50" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="50" alt="jupyter logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="50" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="50" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="50" alt="docker logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="50" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="50" alt="vscode logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="50" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="50" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="50" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="50" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="50" alt="csharp logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="50" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="50" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="50" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="50" alt="debian logo"  />
+  
+</div>
+<br>
+
+
+## 🏆 GitHub Trophies:
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kkmanuu&column=8&row=1">
+</p>
+<br>
+
+
+## 📈 GitHub Contribution Graph:
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=kkmanuu&theme=minimal"/>
+</div>
+<br>
+
+## 📊 GitHub Stats:
+
+<div style="display: flex; justify-content: space-between;">
+  <img alt="Emmanuel's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kkmanuu&theme=white&hide_border=true" width='48%' />
+  <img alt="Emmanuel's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=kkmanuu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+</div>
+
+<br>
+
+
+<a href="https://stardev.io/developers/kkmanuu"><img alt="Check out kkmanuu's profile on stardev.io" src="https://stardev.io/developers/kkmanuu/badge/languages/global.svg" /></a>
+
+
+## 🕑 Wakatime Stats:
+
+    
+          
+            
+    
+
+          
+          Expand Down
+    
+    
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
