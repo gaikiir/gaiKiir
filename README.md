@@ -34,9 +34,6 @@ I'm a passionate **Software Developer** who loves to build innovative solutions 
 <!-- Optional: GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gaikiir&theme=radical)
 
-
-      Expand Down
-
 ## 🌱 I’m currently learning...
 
 -   Advanced Cloud Architecture (AWS/GCP)
