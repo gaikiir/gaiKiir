@@ -14,11 +14,9 @@
 
 🎓 I'm a computer science graduate with hands-on experience in exploratory data analysis, machine learning, computer vision, and statistics 💻. I am also a full-stack web developer 🌐. My research interests include Computer Vision, Geometric Machine Learning, Group Theory ✨.
 
-🔭 I graduated from Microverse, an online training school where I coded 8 hours a day remotely with other developers.
+🔭 I graduated from IST, an online training school where I coded 8 hours a day remotely with other developers.
 
-👯 Currently working as a Software Engineer Fellow at Headstarter AI 🚀.
-
-💬 Ask me about HTML, JavaScript, CSS, React, Ruby on Rails, MongoDB, Vue.js, PHP, PostgreSQL and Redux. I'm passionate about data science, data visualization, and research.
+💬 Ask me about HTML, JavaScript, CSS, React, Ruby on Rails, MongoDB, Vue.js, PHP,  I'm passionate about data science, data visualization, and research.
 
 🧐 I love sharing insights and making a positive impact.
 
